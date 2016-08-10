@@ -3,10 +3,11 @@
   <groupId>aptoide-client-v8</groupId>
   <artifactId>networkclient</artifactId>
   <versioning>
-    <release>unspecified</release>
+    <release>0.0.1</release>
     <versions>
       <version>unspecified</version>
+      <version>0.0.1</version>
     </versions>
-    <lastUpdated>20160810170058</lastUpdated>
+    <lastUpdated>20160810171614</lastUpdated>
   </versioning>
 </metadata>
