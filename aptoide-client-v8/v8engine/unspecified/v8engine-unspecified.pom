@@ -174,9 +174,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>aptoide-client-v8</groupId>
+      <groupId>teste</groupId>
       <artifactId>downloadmanager</artifactId>
-      <version>unspecified</version>
+      <version>1</version>
       <classifier>release</classifier>
       <scope>compile</scope>
     </dependency>
