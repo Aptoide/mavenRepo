@@ -27,7 +27,7 @@
     <dependency>
       <groupId>com.artemzin.rxjava</groupId>
       <artifactId>proguard-rules</artifactId>
-      <version>1.2.1.0</version>
+      <version>1.1.6.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
